@@ -33,7 +33,7 @@ qbittorrent-api
 requests
 speedtest-cli
 telegraph
-tenacit
+tenacity
 tgcrypto
 urllib3
 uvicorn
